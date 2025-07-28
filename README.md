@@ -180,4 +180,97 @@ With features like profile customization, group creation, dark mode, and secure 
 
 ---
 
+## 📸 Screenshots
 
+### 🔐 Login & SignUp Screen
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_1.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Login</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_2.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>SignUp</sub>
+    </td>
+  </tr>
+</table>
+
+### 🏠 Home Screen
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_3.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Light Mode</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_9.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+</table>
+
+### 💬 Chat Screen
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_5.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Light Mode</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_10.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+</table>
+
+### 📂 App Drawer
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_4.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Light Mode</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_11.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Settings Screen
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_7.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Light Mode</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_8.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+</table>
+
+### 👥 Groups and Group List
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_14.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Group List</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/screenshot_15.jpg" alt="Home Screen" width="250"/><br/>
+      <sub>Group Chat</sub>
+    </td>
+  </tr>
+</table>
+
+> Note - More screenshots are available in the 'assets/screenshots' folder.
+---
