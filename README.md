@@ -1,6 +1,6 @@
 # 🗣️ Talk!
 
-**Talk** is a smart, fast, and modern chat app built with **Flutter** and **Firebase**, designed for seamless real-time communication. It supports **one-on-one messaging** and **group chats**, all packed into a clean, intuitive, and responsive user interface.
+**[Talk](https://vysnvnt.com/talk/)** is a smart, fast, and modern chat app built with **Flutter** and **Firebase**, designed for seamless real-time communication. It supports **one-on-one messaging** and **group chats**, all packed into a clean, intuitive, and responsive user interface.
 
 With features like profile customization, group creation, dark mode, and secure authentication, **Talk** offers a complete messaging experience that's both powerful and user-friendly.
 
